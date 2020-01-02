@@ -1,5 +1,5 @@
 # Basics of Python
-These assignments aim to introduce students to Python. Follow the instructions below to get started.
+These assignments aim to introduce students to Python, Follow the instructions below to get started.
 ## Installing Requirements
 We recommend having a Linux or macOS development environment for convenience. We recommend using Anaconda to manage your packages. <br><br>
 Install Python 3 (version >= 3.7.3 recommended), along with pip. <br><br>
